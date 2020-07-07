@@ -154,10 +154,20 @@ button:hover{
     }
 
     .artist img {
+        width: 90%;
         height: auto;
+        
+
     }
-    bio {
-        margin: 10%;
-        width: 75%;
+
+    .artist {
+        width: 90%;
+    }
+
+    .bio {
+        margin: 0;
+        width: 100%;
+        font-size: 1.4rem;
+        margin-bottom: 5%;
     }
 }
