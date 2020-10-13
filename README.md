@@ -23,9 +23,21 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. How would you describe acessibility on the web to someone new to programming?
+
+    Accessiblity means making you website available to everyone, even if they have capablity differences.
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+    To make sure that a website is accessible, you might use rems instead of px on text so someone's choice to use a bigger text size on their device isn't overridden.  You could use semantic HTML so screen readers can give someone a more accurate depiction of your content.  You could also avoid using certain color combinations and make sure to give other cues, other than color, for actions for people who might be colorblind.
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+    A variable is a container with which we can hold and call data.
+
 4. What is the purpose of using functions in code?
+
+    A function is a reusable block of code that can be called to preform a task instead of having to rewrite the code again.
+
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
@@ -35,16 +47,16 @@ You are expected to be able to answer questions in these areas. Your responses c
 
 Follow these steps to set up your project:
 
-- [ ] Create a forked copy of this project.
-- [ ] Add your Team Lead as collaborator on Github.
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [X] Create a forked copy of this project.
+- [X] Add your Team Lead as collaborator on Github.
+- [X] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [X] Create a new branch: git checkout -b `<firstName-lastName>`.
 
 ### Task 2a:  Minimum Viable Product - Responsive Design
 
 *Before you jump in, take 10 minutes to review the code that has already been provided for you. Take time to see how the home page was built. During this time, [Review the provided design files](design/). You have been provided all content necessary in the [index.html file](index.html) and basic styling in the [index.css file](css/index.css).*
 
-* [ ] Add a viewport meta tag to the head of your index.html page.
+* [X] Add a viewport meta tag to the head of your index.html page.
 * [ ] Add responsive breakpoints to your code for 500px such that your styles match the [mobile design file](design/Mobile.png).
 
 ### Task 2b: Minimum Viable Product - JavaScript
